@@ -1,0 +1,29 @@
+_repo: Mothers-to-Men_53650
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gale, Zona
+    aliases:
+    - Breese, William Lleywelyn, Mrs.
+    - Breese, William Llywelyn, Mrs.
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '3531'
+    url: http://www.gutenberg.org/2009/agents/3531
+    wikipedia: http://en.wikipedia.org/wiki/Zona_Gale
+description: ''
+gutenberg_issued: '2016-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53650'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Foundlings -- Fiction'
+- GITenberg
+title: Mothers to Men
+url: http://www.gutenberg.org/ebooks/53650
